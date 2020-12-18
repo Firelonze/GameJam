@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: 183e531c62ad2574fb1fcc9afcade050
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2144471111851529831
+    second: Bush
+  - first:
+      213: -8789587253867533291
+    second: Deco_Bush
+  - first:
+      213: 6329624626446229609
+    second: Big_R_present_Ribbon
+  - first:
+      213: 973763062294498938
+    second: Small_R_present_Ribbon
+  - first:
+      213: -5538224462238141109
+    second: Medium_R_present_Ribbon
+  - first:
+      213: 1675337919957228400
+    second: Big_B_present_Ribbon
+  - first:
+      213: 465541307818171665
+    second: roguelikeHoliday_transparent_6
+  - first:
+      213: -3777496860532796506
+    second: roguelikeHoliday_transparent_7
+  - first:
+      213: 1044780469151057580
+    second: roguelikeHoliday_transparent_8
+  - first:
+      213: 4031163540533214231
+    second: roguelikeHoliday_transparent_9
+  - first:
+      213: -2141665292062943023
+    second: roguelikeHoliday_transparent_10
+  - first:
+      213: 6193459801520679869
+    second: roguelikeHoliday_transparent_11
+  - first:
+      213: -2300207870254282154
+    second: roguelikeHoliday_transparent_12
+  - first:
+      213: 7452559843240047292
+    second: roguelikeHoliday_transparent_13
+  - first:
+      213: 5257149805776645057
+    second: roguelikeHoliday_transparent_14
+  - first:
+      213: 2175294877079231603
+    second: roguelikeHoliday_transparent_15
+  - first:
+      213: -4838929849582268701
+    second: roguelikeHoliday_transparent_16
+  - first:
+      213: -4592253423459842008
+    second: roguelikeHoliday_transparent_17
+  - first:
+      213: -8340835208984763011
+    second: roguelikeHoliday_transparent_18
+  - first:
+      213: -7581241167976579090
+    second: roguelikeHoliday_transparent_19
+  - first:
+      213: 4030687243893048672
+    second: roguelikeHoliday_transparent_20
+  - first:
+      213: -7172974019080115566
+    second: roguelikeHoliday_transparent_21
+  - first:
+      213: 4737531706498782307
+    second: roguelikeHoliday_transparent_22
+  - first:
+      213: -262012009493363051
+    second: roguelikeHoliday_transparent_23
+  - first:
+      213: -8813029926267323827
+    second: roguelikeHoliday_transparent_24
+  - first:
+      213: 566917928205817810
+    second: roguelikeHoliday_transparent_25
+  - first:
+      213: 812676471665340759
+    second: roguelikeHoliday_transparent_26
+  - first:
+      213: -3266342481777800007
+    second: roguelikeHoliday_transparent_27
+  - first:
+      213: 4439426460168588387
+    second: roguelikeHoliday_transparent_28
+  - first:
+      213: 2736061059593823993
+    second: roguelikeHoliday_transparent_29
+  - first:
+      213: 8932372283489424014
+    second: roguelikeHoliday_transparent_30
+  - first:
+      213: -254035015006324722
+    second: roguelikeHoliday_transparent_31
+  - first:
+      213: 5720031814459453195
+    second: roguelikeHoliday_transparent_32
+  - first:
+      213: 6220872794088878550
+    second: roguelikeHoliday_transparent_33
+  - first:
+      213: -942525475631379765
+    second: roguelikeHoliday_transparent_34
+  - first:
+      213: 5326796984059141472
+    second: roguelikeHoliday_transparent_35
+  - first:
+      213: 1751538101646358289
+    second: roguelikeHoliday_transparent_36
+  - first:
+      213: -1661482073575409041
+    second: roguelikeHoliday_transparent_37
+  - first:
+      213: -6142588205982156790
+    second: roguelikeHoliday_transparent_38
+  - first:
+      213: 5379364227119699379
+    second: roguelikeHoliday_transparent_39
+  - first:
+      213: 1301039087401432721
+    second: roguelikeHoliday_transparent_40
+  - first:
+      213: -1728874675267678375
+    second: roguelikeHoliday_transparent_41
+  - first:
+      213: -630941872170503401
+    second: roguelikeHoliday_transparent_42
+  - first:
+      213: 8220469888923072913
+    second: roguelikeHoliday_transparent_43
+  - first:
+      213: -6819470696861457794
+    second: roguelikeHoliday_transparent_44
+  - first:
+      213: 7819643630749625285
+    second: roguelikeHoliday_transparent_45
+  - first:
+      213: -3223555336385909172
+    second: roguelikeHoliday_transparent_46
+  - first:
+      213: -5943402692465264389
+    second: roguelikeHoliday_transparent_47
+  - first:
+      213: -7996688243179518957
+    second: roguelikeHoliday_transparent_48
+  - first:
+      213: -3829442010631992998
+    second: roguelikeHoliday_transparent_49
+  - first:
+      213: 3876416986134845279
+    second: roguelikeHoliday_transparent_50
+  - first:
+      213: 3286833146675555911
+    second: roguelikeHoliday_transparent_51
+  - first:
+      213: 2783557552631980639
+    second: roguelikeHoliday_transparent_52
+  - first:
+      213: -1211696652931428400
+    second: roguelikeHoliday_transparent_53
+  - first:
+      213: -2678502290293218426
+    second: roguelikeHoliday_transparent_54
+  - first:
+      213: 4037346508365022994
+    second: roguelikeHoliday_transparent_55
+  - first:
+      213: 2132596113116169536
+    second: roguelikeHoliday_transparent_56
+  - first:
+      213: -6259642396471035863
+    second: roguelikeHoliday_transparent_57
+  - first:
+      213: -6963742322005920927
+    second: roguelikeHoliday_transparent_58
+  - first:
+      213: -5625118214198891035
+    second: roguelikeHoliday_transparent_59
+  - first:
+      213: 3587253792534101427
+    second: roguelikeHoliday_transparent_60
+  - first:
+      213: -1215884808590701228
+    second: roguelikeHoliday_transparent_61
+  - first:
+      213: -6175155728094164721
+    second: roguelikeHoliday_transparent_62
+  - first:
+      213: 3778011619359374300
+    second: roguelikeHoliday_transparent_63
+  - first:
+      213: 7436594346000546630
+    second: roguelikeHoliday_transparent_64
+  - first:
+      213: 438884983678115153
+    second: roguelikeHoliday_transparent_65
+  - first:
+      213: 7082289998373529084
+    second: roguelikeHoliday_transparent_66
+  - first:
+      213: -3039549473966817190
+    second: roguelikeHoliday_transparent_67
+  - first:
+      213: 5299229105566423859
+    second: roguelikeHoliday_transparent_68
+  - first:
+      213: -6348844582618655123
+    second: roguelikeHoliday_transparent_69
+  - first:
+      213: -6752770247639187764
+    second: roguelikeHoliday_transparent_70
+  - first:
+      213: 7786680565626249835
+    second: roguelikeHoliday_transparent_71
+  - first:
+      213: -4003954139224858945
+    second: roguelikeHoliday_transparent_72
+  - first:
+      213: 6315466720596567645
+    second: roguelikeHoliday_transparent_73
+  - first:
+      213: -8300354270579849481
+    second: roguelikeHoliday_transparent_74
+  - first:
+      213: -7010728744952144110
+    second: roguelikeHoliday_transparent_75
+  - first:
+      213: 5768434292540172037
+    second: roguelikeHoliday_transparent_76
+  - first:
+      213: 8116586219799663888
+    second: roguelikeHoliday_transparent_77
+  - first:
+      213: -7399929104305479802
+    second: roguelikeHoliday_transparent_78
+  - first:
+      213: -8388612674903113247
+    second: roguelikeHoliday_transparent_79
+  - first:
+      213: 2967997169254693537
+    second: roguelikeHoliday_transparent_80
+  - first:
+      213: -9053037861300236601
+    second: roguelikeHoliday_transparent_81
+  - first:
+      213: -3736506828159225357
+    second: roguelikeHoliday_transparent_82
+  - first:
+      213: -3895918773994728576
+    second: roguelikeHoliday_transparent_83
+  - first:
+      213: 1366501952872769829
+    second: roguelikeHoliday_transparent_84
+  - first:
+      213: -5597765511115005539
+    second: roguelikeHoliday_transparent_85
+  - first:
+      213: 8556507318310594887
+    second: roguelikeHoliday_transparent_86
+  - first:
+      213: 9007969131012673446
+    second: roguelikeHoliday_transparent_87
+  - first:
+      213: -2592610731542350569
+    second: roguelikeHoliday_transparent_88
+  - first:
+      213: 7769009409567348581
+    second: roguelikeHoliday_transparent_89
+  - first:
+      213: -8750800816125065744
+    second: roguelikeHoliday_transparent_90
+  - first:
+      213: -6439614998936302739
+    second: roguelikeHoliday_transparent_91
+  - first:
+      213: 2970302080936046923
+    second: roguelikeHoliday_transparent_92
+  - first:
+      213: 445224457463716766
+    second: roguelikeHoliday_transparent_93
+  - first:
+      213: 307331868279411734
+    second: roguelikeHoliday_transparent_94
+  - first:
+      213: -4284208723694653399
+    second: roguelikeHoliday_transparent_95
+  - first:
+      213: -4547906375346114042
+    second: roguelikeHoliday_transparent_96
+  - first:
+      213: -8502776890325911237
+    second: roguelikeHoliday_transparent_97
+  - first:
+      213: -7245472852332282478
+    second: roguelikeHoliday_transparent_98
+  - first:
+      213: -5462738083772159127
+    second: roguelikeHoliday_transparent_99
+  - first:
+      213: -6793277208993999434
+    second: roguelikeHoliday_transparent_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bush
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665ff44d11b2cd10800000000000000
+      internalID: 2144471111851529831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deco_Bush
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cacea36fc150680800000000000000
+      internalID: -8789587253867533291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_R_present_Ribbon
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96064ecdf0857d750800000000000000
+      internalID: 6329624626446229609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_R_present_Ribbon
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec57f8850838d00800000000000000
+      internalID: 973763062294498938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium_R_present_Ribbon
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45bae1c1364423b0800000000000000
+      internalID: -5538224462238141109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_B_present_Ribbon
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bdacd36feff3710800000000000000
+      internalID: 1675337919957228400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd5c85a5fe57600800000000000000
+      internalID: 465541307818171665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a31acf8e92a39bc0800000000000000
+      internalID: -3777496860532796506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c30c1d4ecf7e00800000000000000
+      internalID: 1044780469151057580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cfcf0d1e191f730800000000000000
+      internalID: 4031163540533214231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d81ece83c64742e0800000000000000
+      internalID: -2141665292062943023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8fe701250410e0800000000000000
+      internalID: -2300207870254282154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2f9ab21bfcc6760800000000000000
+      internalID: 7452559843240047292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba45015e525f840800000000000000
+      internalID: 5257149805776645057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd80e5a23303e10800000000000000
+      internalID: 2175294877079231603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee4d9680faa8dcb0800000000000000
+      internalID: -4838929849582268701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ca1897d90540c0800000000000000
+      internalID: -4592253423459842008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75646ea1966f3c80800000000000000
+      internalID: -8340835208984763011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef303a23550ac690800000000000000
+      internalID: -7581241167976579090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06581fc51b0efe730800000000000000
+      internalID: 4030687243893048672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aaf99322a747c90800000000000000
+      internalID: -7172974019080115566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364920e8cf71fb140800000000000000
+      internalID: 4737531706498782307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4af2f9b9f3d1b580800000000000000
+      internalID: -8813029926267323827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7128f1ad81ed700800000000000000
+      internalID: 566917928205817810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7513eeaf1f4374b00800000000000000
+      internalID: 812676471665340759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bccdd291de9ba2d0800000000000000
+      internalID: -3266342481777800007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c81dc28d20c9d30800000000000000
+      internalID: 4439426460168588387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66ed4990178f520800000000000000
+      internalID: 2736061059593823993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e829eee144926fb70800000000000000
+      internalID: 8932372283489424014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e087902ff7c797cf0800000000000000
+      internalID: -254035015006324722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe9c411a2a16f40800000000000000
+      internalID: 5720031814459453195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d13f8cb8daf45650800000000000000
+      internalID: 6220872794088878550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4c39d21a7be2f0800000000000000
+      internalID: -942525475631379765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11771379f96be4810800000000000000
+      internalID: 1751538101646358289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6abbd36bda31f8e0800000000000000
+      internalID: -1661482073575409041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08fdec429421caa0800000000000000
+      internalID: -6142588205982156790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d9e2734757aa40800000000000000
+      internalID: 5379364227119699379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2d4800e693f550800000000000000
+      internalID: 6193459801520679869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
