@@ -1170,12 +1170,12 @@ TextureImporter:
       name: roguelikeHoliday_transparent_11
       rect:
         serializedVersion: 2
-        x: 188
-        y: 17
-        width: 14
-        height: 50
+        x: 187
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1183,6 +1183,48 @@ TextureImporter:
       bones: []
       spriteID: dbb2d4800e693f550800000000000000
       internalID: 6193459801520679869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596034f27752d5cf0800000000000000
+      internalID: -262012009493363051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeHoliday_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d977962a59ce940800000000000000
+      internalID: 5326796984059141472
       vertices: []
       indices: 
       edges: []
